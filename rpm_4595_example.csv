@@ -1,6 +1,6 @@
-card_updated_at,payment_method_token,customer_id,old_last_4,old_expiration,new_last_4,new_expiration,new_card_type,update_type,prepaid,healthcare,debit,durbin_regulated,commercial,payroll,issuing_bank,country_of_issuance,product_id,source,bin,global_id,unique_number_identifier
-2025-01-29T04:20:11+00:00,abc123,c-abc123,2222,23-Apr,1111,26-Dec,Visa,New account number,No,No,No,No,No,No,Acme Bank,GBR,N2,BATCH,123456,,
-2024-01-29T04:20:11+00:00,def456,c-def456,3333,24-Jan,2222,24-Jan,MasterCard,New account number,No,No,Yes,No,Unknown,No,Acme Bank,LTU,MDS,BATCH,234567,,
-2025-01-29T04:20:11+00:00,ghi789,c-ghi789,4444,24-Jun,3333,26-Sep,MasterCard,New expiry date,No,No,Yes,No,Unknown,No,Acme Bank,GBR,MDP,BATCH,345678,,
-2025-01-29T04:20:11+00:00,jkl012,c-jkl012,5555,27-Mar,4444,27-Mar,Visa,Call customer for updates,No,No,Yes,Yes,Unknown,No,Acme Bank,USA,F,RTAU,456789,,
-2025-01-29T04:20:11+00:00,mno345,c-mno345,6666,27-Mar,5555,27-Mar,Visa,Closed Card,No,No,Yes,Yes,Unknown,No,Acme Bank,USA,F,RTAU,567890,,
+"card_updated_at","payment_method_token","customer_id","old_last_4","old_expiration","new_last_4","new_expiration","new_card_type","update_type","prepaid","healthcare","debit","durbin_regulated","commercial","payroll","issuing_bank","country_of_issuance","product_id","source","bin"
+"2025-01-29T04:20:11+00:00","abc123","c-abc123",2222,"23-Apr",1111,"26-Dec","Visa","New account number","No","No","No","No","No","No","Acme Bank","GBR","N2","BATCH",123456
+"2024-01-29T04:20:11+00:00","def456","c-def456",3333,"24-Jan",2222,"24-Jan","MasterCard","New account number","No","No","Yes","No","Unknown","No","Acme Bank","LTU","MDS","BATCH",234567
+"2025-01-29T04:20:11+00:00","ghi789","c-ghi789",4444,"24-Jun",3333,"26-Sep","MasterCard","New expiry date","No","No","Yes","No","Unknown","No","Acme Bank","GBR","MDP","BATCH",345678
+"2025-01-29T04:20:11+00:00","jkl012","c-jkl012",5555,"27-Mar",4444,"27-Mar","Visa","Call customer for updates","No","No","Yes","Yes","Unknown","No","Acme Bank","USA","F","RTAU",456789
+"2025-01-29T04:20:11+00:00","mno345","c-mno345",6666,"27-Mar",5555,"27-Mar","Visa","Closed Card","No","No","Yes","Yes","Unknown","No","Acme Bank","USA","F","RTAU",567890
